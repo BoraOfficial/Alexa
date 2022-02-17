@@ -43,6 +43,5 @@
 
 
 -----
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
+Thanks to [7oSkaaa](https://github.com/7oSkaaa) for this awesome README.md design!
 
-Last Edited on: 10/02/2022
