@@ -2,7 +2,7 @@
 
 ---
 
-<h3>Do you value your:</h3>
+<h5>Do you value your:</h5>
 ```diff
-    - Privacy
+- Privacy?
 ```
