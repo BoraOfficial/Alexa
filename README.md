@@ -6,5 +6,5 @@
 
 ```diff
 + Privacy
-- this text is highlighted in red
+
 ```
