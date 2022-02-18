@@ -30,4 +30,4 @@ and much more abilities that **wouldn't even fit in here!*
 
 <h4>What are you waiting for?</h4>
 
-<p><a href="https://www.example.com"><img img src="noimageatall" alt="   [̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅]"/></a></p>
+- <p><a href="https://www.example.com"><img img src="noimageatall" alt="[̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅]"/></a></p>
