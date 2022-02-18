@@ -3,5 +3,5 @@
 ---
 
 ```diff
-+ Do you value your - Privacy?
+Do you value your - Privacy
 ```
