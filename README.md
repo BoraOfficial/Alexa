@@ -3,6 +3,6 @@
 ---
 
 <h3>Do you value your:</h3>
-
+```diff
 - Privacy
-
+```
