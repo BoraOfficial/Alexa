@@ -26,3 +26,5 @@ Presenting you the **Privacy Based Voice Assistant** Nola!
 
 - It can even tell you a *joke*
 
+and much more abilities that **wouldn't even fit in here!**
+
