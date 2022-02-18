@@ -31,5 +31,5 @@ and much more abilities that **wouldn't even fit in here!**
 
 What are you waiting for?
 
-<p align="center">
+<p>
 	<a href="https://www.example.com"><img img src="noimageatall" alt="[̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅]"/></a>    ༼⁰o⁰；༽
