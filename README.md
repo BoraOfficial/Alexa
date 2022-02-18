@@ -12,7 +12,7 @@
 + If yes, then this is the best thing for you!
 ```
 
-Presenting you the **Privacy Based Voice Assistant** Nola!
+Presenting you the **Privacy Based Voice Assistant** Nola! ⊂◉‿◉つ
 
 <h2>It can:</h2>
 
