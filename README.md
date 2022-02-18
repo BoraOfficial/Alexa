@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my project Template!</h1>
+<h1 align="center">Welcome to the source code of Template!</h1>
 
 ---
 
@@ -28,3 +28,8 @@ Presenting you the **Privacy Based Voice Assistant** Nola! ⊂◉‿◉つ
 
 and much more abilities that **wouldn't even fit in here!**
 
+
+What are you waiting for?
+
+<p align="center">
+	<a href="https://www.example.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Buy now!"/></a>༼⁰o⁰；༽
