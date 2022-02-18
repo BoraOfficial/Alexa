@@ -13,3 +13,16 @@
 ```
 
 Presenting you the **Privacy Based Voice Assistant** Nola!
+
+<h2>It can:</h2>
+
+- Tell you the weather
+
+- Tell you the news
+
+- Play your favorite songs
+
+- Set an alarm
+
+- It can even tell you a *joke*
+
