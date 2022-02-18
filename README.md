@@ -2,7 +2,9 @@
 
 ---
 
-<h5>Do you value your:</h5>
+<h4>Do you value your:</h4>
+
 ```diff
-- Privacy?
++ this text is highlighted in green
+- this text is highlighted in red
 ```
