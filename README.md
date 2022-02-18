@@ -4,7 +4,7 @@
 
 <h4>Do you value your:</h4>
 
-```diff
-+ Privacy
+- Privacy
 
-```
+- Time
+
