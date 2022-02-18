@@ -5,6 +5,6 @@
 <h4>Do you value your:</h4>
 
 ```diff
-+ this text is highlighted in green
++ Privacy
 - this text is highlighted in red
 ```
