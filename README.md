@@ -2,4 +2,3 @@
 
 ---
 
-<a href="javascript:alert(1)">xss?</a>
