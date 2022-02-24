@@ -24,7 +24,9 @@ Presenting you the **Privacy Based Voice Assistant** Nola! ⊂◉‿◉つ
 
 - Set an alarm
 
-- It can even tell you a *joke*
+- It can tell you a joke
+
+- It can even *play games* with you!
 
 and much more abilities that **wouldn't even fit in here!**
 
