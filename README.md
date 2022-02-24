@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the source code of Template!</h1>
+<h1 align="center">Welcome to the source code of Nola!</h1>
 
 ---
 
