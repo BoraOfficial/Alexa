@@ -35,4 +35,5 @@ and much more abilities that **wouldn't even fit in here!**
 - <p><a href="https://www.example.com"><img img src="noimageatall" alt="[̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅]"/></a></p>
 <br>
 <br>
-<p style="color: red;">ALL RIGHTS RESERVED</p>
+
+**ALL RIGHTS RESERVED (C) BORAOFFICIAL 2021**
