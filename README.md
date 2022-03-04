@@ -24,7 +24,7 @@ Presenting you the **Privacy Based Voice Assistant** Alexa! ⊂◉‿◉つ
 
 - Set an alarm
 
-- It can tell you a joke
+- Tell you a joke
 
 - It can even *play games* with you!
 
