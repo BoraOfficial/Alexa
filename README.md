@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the source code of Nola!</h1>
+<h1 align="center">Welcome to the source code of Alexa!</h1>
 
 ---
 
@@ -12,7 +12,7 @@
 + If yes, then this is the best thing for you!
 ```
 
-Presenting you the **Privacy Based Voice Assistant** Nola! ⊂◉‿◉つ
+Presenting you the **Privacy Based Voice Assistant** Alexa! ⊂◉‿◉つ
 
 <h2>It can:</h2>
 
