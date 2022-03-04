@@ -1,6 +1,0 @@
-"What are the terms under which the code in all those GitHub projects is made available?
-A precise answer depends on your jurisdiction and would require a lawyer's advice, but it's likely that the answer for most people is "all rights reserved" -- in other words, you have no rights to use the code.
-GitHub does not include any useful default licensing terms in its terms of service; the most likely scenario is that any use of the copyrighted material in one of those no-license projects is formally a breach of copyright.
-Under copyright law, code without a license cannot be legally shared, as the default for copyrighted materials is that all rights are reserved."
-
-ALL RIGHTS RESERVED (C) BORAOFFICIAL 2021 
