@@ -36,5 +36,4 @@ and much more abilities that **wouldn't even fit in here!**
 <br>
 <br>
 <br>
-<br>
 **ALL RIGHTS RESERVED (C) BORAOFFICIAL 2021**
